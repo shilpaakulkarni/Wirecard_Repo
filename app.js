@@ -18,7 +18,7 @@ module.exports = function () {
   var metadata = {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
-    amzn_appId: "amzn1.ask.skill.f3e2b523-7225-49dc-9a2e-5b68e5531bf3",
+    amzn_appId: "amzn1.ask.skill.42603a90-9321-45e5-8647-0be69a974fa4",
     channelSecretKey: 'fOTdjIGnnyyfaPcK4cPjpxws5R6KAfzU',
     channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/F9BF9BEE-82BE-4AF1-B1FA-452370557F54'
   };
